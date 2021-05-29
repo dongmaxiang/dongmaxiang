@@ -3,7 +3,8 @@
 You can use the [editor on GitHub](https://github.com/dongmaxiang/dongmaxiang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+### [今天看到的](https://robotkang.cc/ziyuan!)
+### [要做的博客](https://www.jianshu.com/p/67d8af689090/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
